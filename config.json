@@ -3,5 +3,8 @@
     "subTitle":"小时候那块画在手上的表 没有走动过 却带走了我们最好的时光",
     "avatarUrl":"https://www.xmako.net/assets/avatar-3y-Rqpqz.jpg",
     "GMEEK_VERSION":"last",
-    "homeUrl":"http://i.dxxxp.com"
+    "homeUrl":"http://i.dxxxp.com",
+    "urlMode": "issue",
+    "showPostSource": 0,
+    "needComment": 0
 }
